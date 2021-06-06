@@ -1,0 +1,5 @@
+# StreamingAngular
+
+```
+ng serve
+```  
